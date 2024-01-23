@@ -1,0 +1,1 @@
+# -on-an-array-entered-by-the-user-a-Print-the-even-valued-elements-b-Print-the-odd-valued-elements-
